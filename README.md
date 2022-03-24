@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @manojjawalkar
-- 👀 I’m interested in learning Linux Operating system
 - 📫 manojjawalkar05@gmail.com
 
 <!---
